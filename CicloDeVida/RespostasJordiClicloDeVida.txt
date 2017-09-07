@@ -1,0 +1,87 @@
+✓Primeira execução
+09-07 00:47:02.254 4058-4058/? I/livro: .MainActivity.onCreate() chamado: null
+09-07 00:47:03.928 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:47:03.930 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+
+✓Depois de clicar no botão voltar
+09-07 00:47:02.254 4058-4058/? I/livro: .MainActivity.onCreate() chamado: null
+09-07 00:47:03.928 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:47:03.930 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+09-07 00:49:01.306 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onPause() chamado.
+09-07 00:49:01.363 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStop() chamado.
+09-07 00:49:01.363 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onDestroy() chamado.
+
+
+✓Volte a tela inicial do emulador e entre de novo na
+aplicação. Os métodos onCreate(), onStart() e onResume()
+serão chamados novamente. Então clique no botão home
+para voltar a tela inicial
+09-07 00:49:25.623 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onCreate() chamado: null
+09-07 00:49:25.695 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:49:25.695 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+09-07 00:49:48.743 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onPause() chamado.
+09-07 00:49:48.753 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onSaveInstanceState() chamado.
+09-07 00:49:48.753 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStop() chamado.
+
+
+
+
+
+
+
+✓Rotacione o celular
+09-07 00:50:58.143 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onPause() chamado.
+09-07 00:50:58.143 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onSaveInstanceState() chamado.
+09-07 00:50:58.143 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStop() chamado.
+09-07 00:50:58.143 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onDestroy() chamado.
+09-07 00:50:58.243 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onCreate() chamado: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@146961c, 2131165193=android.view.AbsSavedState$1@146961c, 2131165194=TextView.SavedState{272a225 start=0 end=0 text=Name}, 2131165195=android.view.AbsSavedState$1@146961c}, android:ActionBar={16909232=android.widget.Toolbar$SavedState@5d47ffa}, android:Panels={0=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@fd4d9ab, 8=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@d34f808}, android:focusedViewId=2131165194}]}]
+09-07 00:50:58.247 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:50:58.247 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+
+
+
+
+
+✓Navega entre telas
+
+09-07 00:47:02.254 4058-4058/? I/livro: .MainActivity.onCreate() chamado: null
+09-07 00:47:03.928 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:47:03.930 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+09-07 00:47:02.254 4058-4058/? I/livro: .MainActivity.onCreate() chamado: null
+09-07 00:47:03.928 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:47:03.930 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+09-07 00:49:01.306 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onPause() chamado.
+09-07 00:49:01.363 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStop() chamado.
+09-07 00:49:01.363 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onDestroy() chamado.
+09-07 00:49:25.623 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onCreate() chamado: null
+09-07 00:49:25.695 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:49:25.695 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+09-07 00:49:48.743 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onPause() chamado.
+09-07 00:49:48.753 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onSaveInstanceState() chamado.
+09-07 00:49:48.753 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStop() chamado.
+09-07 00:50:58.143 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onPause() chamado.
+09-07 00:50:58.143 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onSaveInstanceState() chamado.
+09-07 00:50:58.143 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStop() chamado.
+09-07 00:50:58.143 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onDestroy() chamado.
+09-07 00:50:58.243 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onCreate() chamado: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@146961c, 2131165193=android.view.AbsSavedState$1@146961c, 2131165194=TextView.SavedState{272a225 start=0 end=0 text=Name}, 2131165195=android.view.AbsSavedState$1@146961c}, android:ActionBar={16909232=android.widget.Toolbar$SavedState@5d47ffa}, android:Panels={0=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@fd4d9ab, 8=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@d34f808}, android:focusedViewId=2131165194}]}]
+09-07 00:50:58.247 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:50:58.247 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+
+
+
+
+✓Atende uma chamada
+
+09-07 00:50:58.243 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onCreate() chamado: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@146961c, 2131165193=android.view.AbsSavedState$1@146961c, 2131165194=TextView.SavedState{272a225 start=0 end=0 text=Name}, 2131165195=android.view.AbsSavedState$1@146961c}, android:ActionBar={16909232=android.widget.Toolbar$SavedState@5d47ffa}, android:Panels={0=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@fd4d9ab, 8=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@d34f808}, android:focusedViewId=2131165194}]}]
+09-07 00:50:58.247 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:50:58.247 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+09-07 00:52:25.063 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onPause() chamado.
+09-07 00:52:25.063 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onSaveInstanceState() chamado.
+09-07 00:52:25.063 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStop() chamado.
+09-07 00:52:25.063 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onDestroy() chamado.
+09-07 00:52:25.148 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onCreate() chamado: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@146961c, 2131165193=android.view.AbsSavedState$1@146961c, 2131165194=TextView.SavedState{70b04e start=0 end=0 text=Name}, 2131165195=android.view.AbsSavedState$1@146961c}, android:ActionBar={16909232=android.widget.Toolbar$SavedState@7056f}, android:Panels={0=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@97f527c, 8=com.android.internal.policy.PhoneWindow$PanelFeatureState$SavedState@e401705}, android:focusedViewId=2131165194}]}]
+09-07 00:52:25.158 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onStart() chamado.
+09-07 00:52:25.159 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
+09-07 00:54:45.715 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onPause() chamado.
+09-07 00:54:55.769 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onSaveInstanceState() chamado.
+09-07 00:54:56.821 4058-4058/com.example.aluno.ciclodevida I/livro: .MainActivity.onResume() chamado.
