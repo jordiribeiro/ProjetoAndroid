@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">SharedPreferences</string>
     <string name="item">Jordi</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="cpf">CPF</string>
+    <string name="endereco">Endereço</string>
 </resources>
